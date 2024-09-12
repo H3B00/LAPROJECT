@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <variables></variables>
-  <block type="pxt-on-start" x="0" y="0"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="oSJ#tHG%7$Xrb2x|*0O8">mySprite</variable></variables><block type="pxt-on-start" id="x;XHckFK6UzQh#~~N%f3" x="0" y="0"><statement name="HANDLER"><block type="game_control_sprite" id="9{vUBu]Q*ODoH~FO+MdW"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="sprite"><block type="variables_get" id="m4op`Cq5j#n%Sd|8k([}"><field name="VAR" id="oSJ#tHG%7$Xrb2x|*0O8">mySprite</field></block></value><value name="vx"><shadow type="spriteSpeedPicker" id="@zcKJ{8!#rFg~ph0Q,Yz"><field name="speed">100</field></shadow></value><value name="vy"><shadow type="spriteSpeedPicker" id="wu5{(nXu=W@w?kiN/i.o"><field name="speed">100</field></shadow></value></block></statement></block></xml>
