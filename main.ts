@@ -17,4 +17,4 @@ let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
 controller.moveSprite(mySprite)
-scene.setBackgroundColor(1)
+tiles.setCurrentTilemap(tilemap`level4`)
