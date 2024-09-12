@@ -1,18 +1,18 @@
 <xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="7!{`Jga7i.CQgQbYNVL3">mySprite</variable><variable type="KIND_SpriteKind" id="lPeFE?3P0VQ6$CaU2/0p">Player</variable><variable type="KIND_SpriteKind" id="4PGXPkCy:Rh`59p@Ot24">Projectile</variable><variable type="KIND_SpriteKind" id="XN-5iYnToba;(||w(4{9">Food</variable><variable type="KIND_SpriteKind" id="ty!g(|/]lt=0USV3_C8P">Enemy</variable></variables><block type="pxt-on-start" id="@DRSp(p_=_MoR9FGE5lJ" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="%:6O:cP#w6Gcze43ax^W"><field name="VAR" id="7!{`Jga7i.CQgQbYNVL3">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="_%usPbWNw/XuiL^X~8iu"><value name="img"><shadow type="screen_image_picker" id="iEg:Oq[R=$pc0?4Chuh6"><field name="img">img`
+. . . . . . . . . . f f f . . . 
+. . . . . . . . . f f f . . . . 
+. . . . . . f f f f f f . . . . 
+. . . . . f f f f f f f f . . . 
+. . . . f f f f f f f f f f . . 
+. . . . f f f f f f f f f f . . 
+. . . . f f f f f f f f f f . . 
+. f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f . 
+f f f f f f f f f f f f f f . . 
+f f f f f f f f f f f f f f f . 
+f f f f f f f f f f f f f f f . 
+. f f f f f f f f f f f f f f . 
+. . f f f f f f f f f f f f . . 
+. . . f f f f f f f f f f . . . 
 . . . . . . . . . . . . . . . . 
-. 4 4 4 4 . . . . 4 4 4 4 . . . 
-. 4 4 4 4 . . . . 4 4 4 4 . . . 
-. 4 4 4 4 . . . . 4 4 4 4 . . . 
-. 4 4 4 4 4 4 4 4 4 4 4 4 . . . 
-. 4 4 4 4 4 4 4 4 4 4 4 4 . . . 
-. . . . . 4 4 4 4 . . . . . . . 
-. . . . . 4 4 4 4 . . . . . . . 
-. . . . . 4 4 4 4 . . . . . . . 
-. . . . . 4 4 4 4 . . . . . . . 
-. . . . . 4 4 4 4 . . . . . . . 
-. . . . . 4 4 4 4 . . . . . . . 
-. . . . . 4 4 4 4 . . . . . . . 
-. . . . . 4 4 4 4 . . . . . . . 
-. . . . . 4 4 4 4 . . . . . . . 
-. . . . . 4 4 4 4 . . . . . . . 
 `</field><data>{"commentRefs":[],"fieldData":{"img":"iEg:Oq[R=$pc0?4Chuh6"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="7_;8U#a8Zi/3CpDz9l$r"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
