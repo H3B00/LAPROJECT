@@ -1,4 +1,8 @@
-let mySprite = sprites.create(img`
+controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
+    controller.moveSprite(mySprite)
+})
+let mySprite: Sprite = null
+mySprite = sprites.create(img`
     . . . . . . . . . . f f f . . . 
     . . . . . . . . . f f f . . . . 
     . . . . . . f f f f f f . . . . 
@@ -16,5 +20,4 @@ let mySprite = sprites.create(img`
     . . . f f f f f f f f f f . . . 
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
-controller.moveSprite(mySprite)
 tiles.setCurrentTilemap(tilemap`level4`)
